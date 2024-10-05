@@ -1,0 +1,5 @@
+train: /home/vinha/Documentos/artigo_ia/object/train  # Caminho para a pasta de treino
+val: /home/vinha/Documentos/artigo_ia/object/val      # Caminho para a pasta de validação
+
+nc: 1  # Número de classes (1, se você está detectando apenas carrapatos)
+names: ['tick']  # Nome da classe
