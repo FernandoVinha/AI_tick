@@ -2,7 +2,7 @@ import os
 import xml.etree.ElementTree as ET
 
 # Path to the directories where the XML files are located
-dataset_path = '/home/vinha/Documentos/artigo_ia/tick'  # Update to your path
+dataset_path = '/'  # Update to your path
 folders = ['train', 'val']
 
 # List of classes
